@@ -1,0 +1,37 @@
+create external table sql_audit_asv_raw (
+event_time string,
+sequence_number  int,
+action_id string,
+succeeded string,
+permission_bitmask string,
+is_column_permission string,
+session_id int,
+class_type string,
+session_server_principal_name string,
+server_principal_name string,
+database_principal_name string,
+target_server_principal_name string,
+target_database_principal_name string,
+server_instance_name string,
+database_name string,
+schema_name string,
+object_name string,
+statement string,
+additional_information string,
+file_name string,
+audit_file_offset bigint,
+pooled_connection string,
+packet_data_size int,
+address string,
+is_dac string,
+total_cpu int,
+ioreads int,
+iowrites int,
+event_count int,
+import_id int,
+audit_file_id int,
+audit_file_source_server string
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED by '|'
+STORED AS TEXTFILE
+LOCATION 'asv://audit/SQLAudit/raw/';

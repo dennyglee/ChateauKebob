@@ -1,0 +1,12 @@
+C:\SQLAuditLogs\BISM\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\bin\Model.asdatabase
+C:\SQLAuditLogs\BISM\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\bin\Model.deploymenttargets
+C:\SQLAuditLogs\BISM\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\bin\Model.deploymentoptions
+C:\SQLAuditLogs\BISM\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\obj\Development\Model.asdatabase
+C:\SQLAuditLogs\BISM\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\obj\Development\Model.deploymentoptions
+C:\SQLAuditLogs\BISM\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\obj\Development\Model.deploymenttargets
+C:\SQLAuditLogs\Bin\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\bin\Model.asdatabase
+C:\SQLAuditLogs\Bin\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\bin\Model.deploymenttargets
+C:\SQLAuditLogs\Bin\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\bin\Model.deploymentoptions
+C:\SQLAuditLogs\Bin\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\obj\Development\Model.asdatabase
+C:\SQLAuditLogs\Bin\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\obj\Development\Model.deploymentoptions
+C:\SQLAuditLogs\Bin\SQLAudit_BISM_Tabular_Project\SQLAudit_BISM_Tabular_Project\obj\Development\Model.deploymenttargets
