@@ -32,6 +32,6 @@ import_id int,
 audit_file_id int,
 audit_file_source_server string
 )
-ROW FORMAT DELIMITED FIELDS TERMINATED by '|'
+ROW FORMAT DELIMITED FIELDS TERMINATED by '\001'
 STORED AS TEXTFILE
 LOCATION 'asv://audit/SQLAudit/raw/';
